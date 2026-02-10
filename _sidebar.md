@@ -9,3 +9,4 @@
   * [Collections](kotlin/collections.md)
   * [Exceptions](kotlin/exceptions.md)
   * [Packages & Imports](kotlin/packages.md)
+  * [Hoisting](kotlin/hoisting.md)
